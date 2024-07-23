@@ -12,6 +12,7 @@ plot1 = covid %>%
   geom_boxplot() +
   theme(legend.position = "none",
         axis.text.x = element_text(angle = 30, hjust = 1)) #changed angle to 30 degrees
+#another comment to test branch creation
 
 
 ## gonna do something here with the dates to make this prettier.

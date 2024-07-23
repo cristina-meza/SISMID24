@@ -1,0 +1,4 @@
+# don't want credentials in git!
+.Renviron
+# ignoring this file to see behavior
+source/bar.R
